@@ -1,0 +1,15 @@
+{
+  "mcp": {
+    "servers": {
+      "parrot-os": {
+        "command": "/home/ben/Documents/parrot mcp/venv/bin/python",
+        "args": [
+          "/home/ben/Documents/parrot mcp/main.py"
+        ],
+        "env": {
+          "PYTHONPATH": "/home/ben/Documents/parrot mcp"
+        }
+      }
+    }
+  }
+}
